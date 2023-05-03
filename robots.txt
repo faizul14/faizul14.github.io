@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://faisalkholid.github.io/sitemap.xml
+Sitemap: http://faizul14.github.io/sitemap.xml
